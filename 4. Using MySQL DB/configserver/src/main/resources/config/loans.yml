@@ -1,0 +1,11 @@
+build:
+  version: 1.0
+
+accounts:
+  message: Hello World
+  contactDetails:
+    name: John Doe
+    email: 0H6bI@example.com
+  onCallSupport:
+    - 1234567890
+    - 9876543210

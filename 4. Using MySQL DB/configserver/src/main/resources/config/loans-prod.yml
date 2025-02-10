@@ -1,0 +1,11 @@
+build:
+  version: "PROD-3.0"
+
+accounts:
+  message: Hello World from PROD
+  contactDetails:
+    name: John Doe
+    email: 0H6bI@example.com
+  onCallSupport:
+    - 1234567890-PROD
+    - 9876543210-PROD
